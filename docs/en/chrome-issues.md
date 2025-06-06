@@ -5,6 +5,7 @@ lang: en
 ver: 1
 ---
 
+This not an official google product.
 {% include warning.html class="danger" message="<h4>REINSTALLING AUTHENTICATOR WILL CLEAR YOUR DATA. NEVER REINSTALL AUTHENTICATOR TO FIX ANY ISSUES</h4>" %}
 
 - Can't remember your password or lost your secrets and don't have a backup? See [Lost Codes](lost-codes)
